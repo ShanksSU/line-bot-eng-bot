@@ -1,0 +1,21 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的意思是什麼？
+ 誰",what,how,how much,who,who,4,1,7,9,0
+"以下中文的意思是什麼？
+ 什麼",what,how much,where,why,what,1,1,9,3,5
+"以下中文的意思是什麼？
+ 何時",where,why,how,when,when,4,3,5,7,2
+"以下中文的意思是什麼？
+ 哪裡",where,how much,what time,how old,where,1,3,9,6,8
+"以下中文的意思是什麼？
+ 哪一個",who,how,which,how old,which,3,0,7,4,8
+"以下中文的意思是什麼？
+ 為什麼",where,what,why,who,why,3,3,1,5,0
+"以下中文的意思是什麼？
+ 幾點",how,what time,when,how old,what time,2,7,6,2,8
+"以下中文的意思是什麼？
+ 如何、怎麼",why,how,what time,what,how,2,5,7,6,1
+"以下中文的意思是什麼？
+ 幾歲",how old,how,what,how much,how old,1,8,7,1,9
+"以下中文的意思是什麼？
+ 多少",where,how much,how old,why,how much,2,3,9,8,5

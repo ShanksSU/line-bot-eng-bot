@@ -1,0 +1,19 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的英文意思是什麼？
+ 在…地點",at,next to,under,in,at,1,0,5,3,1
+"以下中文的英文意思是什麼？
+ 在…裡面",under,beside,at,in,in,4,3,6,0,1
+"以下中文的英文意思是什麼？
+ 在…上面",beside,by,in front of,on,on,4,6,4,7,2
+"以下中文的英文意思是什麼？
+ 在…下面",under,in front of,in,next to,under,1,3,7,1,5
+"以下中文的英文意思是什麼？
+ 在…旁邊",under,by,beside,next to,by,2,3,4,6,5
+"以下中文的英文意思是什麼？
+ 在…旁邊",next to,on,in,in front of,next to,1,5,2,1,7
+"以下中文的英文意思是什麼？
+ 在…旁邊",in,beside,in front of,on,beside,2,1,6,7,2
+"以下中文的英文意思是什麼？
+ 在…前面",at,in front of,by,under,in front of,2,0,7,4,3
+"以下中文的英文意思是什麼？
+ 在…後面",by,beside,behind,on,behind,3,4,6,8,2

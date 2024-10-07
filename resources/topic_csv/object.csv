@@ -1,0 +1,101 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的意思是什麼？
+ 原子筆",bag,sofa,car,pen,pen,4,6,16,46,0
+"以下中文的意思是什麼？
+ 鉛筆",lamp,sun,pencil,marker,pencil,3,19,36,1,2
+"以下中文的意思是什麼？
+ 麥克筆",marker,bed,flower,tree,marker,1,2,18,42,44
+"以下中文的意思是什麼？
+ 橡皮擦",eraser,ruler,flower,map,eraser,1,3,4,42,34
+"以下中文的意思是什麼？
+ 尺",door,ruler,cup,pen,ruler,2,12,4,24,0
+"以下中文的意思是什麼？
+ 書",book,cell phone,crayon,table,book,1,5,21,10,8
+"以下中文的意思是什麼？
+ 袋子",bag,bowl,eraser,picture,bag,1,6,26,3,14
+"以下中文的意思是什麼？
+ 書桌",river,desk,marker,map,desk,2,41,7,2,34
+"以下中文的意思是什麼？
+ 餐桌",cell phone,weather,bowl,table,table,4,21,35,26,8
+"以下中文的意思是什麼？
+ 椅子",clock,desk,box,chair,chair,4,20,7,11,9
+"以下中文的意思是什麼？
+ 蠟筆",crayon,chair,bat,desk,crayon,1,10,9,29,7
+"以下中文的意思是什麼？
+ 箱子",cup,box,cloud,ruler,box,2,24,11,37,4
+"以下中文的意思是什麼？
+ 門",marker,light,door,bike,door,3,2,17,12,45
+"以下中文的意思是什麼？
+ 窗戶",grass,bat,picture,window,window,4,43,29,14,13
+"以下中文的意思是什麼？
+ 圖片",door,picture,bat,rain,picture,2,12,14,29,39
+"以下中文的意思是什麼？
+ 電視",eraser,TV,cell phone,crayon,TV,2,3,15,21,10
+"以下中文的意思是什麼？
+ 沙發",sofa,ruler,cup,eraser,sofa,1,16,4,24,3
+"以下中文的意思是什麼？
+ 光",wind,snow,cup,light,light,4,38,40,24,17
+"以下中文的意思是什麼？
+ 床",lamp,train,bed,cup,bed,3,19,48,18,24
+"以下中文的意思是什麼？
+ 燈",pen,lamp,doll,bike,lamp,2,0,19,32,45
+"以下中文的意思是什麼？
+ 時鐘",clock,wind,grass,picture,clock,1,20,38,43,14
+"以下中文的意思是什麼？
+ 手機",cell phone,sun,taxi,lamp,cell phone,1,21,36,49,19
+"以下中文的意思是什麼？
+ 電動",video game,ruler,kite,picture,video game,1,22,4,31,14
+"以下中文的意思是什麼？
+ 電腦",bag,doll,bed,computer,computer,4,6,32,18,23
+"以下中文的意思是什麼？
+ 杯子",car,river,door,cup,cup,4,46,41,12,24
+"以下中文的意思是什麼？
+ 馬克杯",doll,cell phone,mug,bed,mug,3,32,21,25,18
+"以下中文的意思是什麼？
+ 碗",bowl,chair,table,flower,bowl,1,26,9,8,42
+"以下中文的意思是什麼？
+ 球",ball,video game,book,flower,ball,1,27,22,5,42
+"以下中文的意思是什麼？
+ 溜溜球",pencil,yo-yo,ruler,TV,yo-yo,2,1,28,4,15
+"以下中文的意思是什麼？
+ 球棒",clock,rain,computer,bat,bat,4,20,39,23,29
+"以下中文的意思是什麼？
+ 機器人",box,clock,robot,bowl,robot,3,11,20,30,26
+"以下中文的意思是什麼？
+ 風箏",yo-yo,kite,sofa,bed,kite,2,28,31,16,18
+"以下中文的意思是什麼？
+ 娃娃",sofa,window,doll,flower,doll,3,16,13,32,42
+"以下中文的意思是什麼？
+ 拖把",mop,cup,lamp,river,mop,1,33,24,19,41
+"以下中文的意思是什麼？
+ 地圖",flower,map,cell phone,sun,map,2,42,34,21,36
+"以下中文的意思是什麼？
+ 天氣",weather,desk,sun,kite,weather,1,35,7,36,31
+"以下中文的意思是什麼？
+ 太陽",doll,sun,marker,lamp,sun,2,32,36,2,19
+"以下中文的意思是什麼？
+ 雲",cloud,table,computer,crayon,cloud,1,37,8,23,10
+"以下中文的意思是什麼？
+ 風",wind,pencil,rain,chair,wind,1,38,1,39,9
+"以下中文的意思是什麼？
+ 雨",light,lamp,car,rain,rain,4,17,19,46,39
+"以下中文的意思是什麼？
+ 雪",sun,bed,snow,cell phone,snow,3,36,18,40,21
+"以下中文的意思是什麼？
+ 河",doll,bed,cloud,river,river,4,32,18,37,41
+"以下中文的意思是什麼？
+ 花",pen,flower,sofa,robot,flower,2,0,42,16,30
+"以下中文的意思是什麼？
+ 草",ruler,window,grass,tree,grass,3,4,13,43,44
+"以下中文的意思是什麼？
+ 樹",kite,tree,window,snow,tree,2,31,44,13,40
+"以下中文的意思是什麼？
+ 腳踏車",cloud,taxi,rain,bike,bike,4,37,49,39,45
+"以下中文的意思是什麼？
+ 車",ball,car,pencil,video game,car,2,27,46,1,22
+"以下中文的意思是什麼？
+ 公車",table,grass,marker,bus,bus,4,8,43,2,47
+"以下中文的意思是什麼？
+ 火車",grass,train,car,TV,train,2,43,48,46,15
+"以下中文的意思是什麼？
+ 計程車",taxi,bowl,TV,door,taxi,1,49,26,15,12

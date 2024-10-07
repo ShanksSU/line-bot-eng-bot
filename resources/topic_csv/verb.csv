@@ -1,0 +1,67 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的意思是什麼？
+ 做",sing,do,color,love,do,2,11,0,15,2
+"以下中文的意思是什麼？
+ 喜歡",watch,color,listen,like,like,4,22,15,24,1
+"以下中文的意思是什麼？
+ 愛",love,cry,read,color,love,1,2,27,13,15
+"以下中文的意思是什麼？
+ 想要",look,take,want,swim,want,3,21,30,3,7
+"以下中文的意思是什麼？
+ 擁有",have,love,paint,walk,have,1,4,2,16,6
+"以下中文的意思是什麼？
+ 跑",want,run,watch,take,run,2,3,5,22,30
+"以下中文的意思是什麼？
+ 走路",like,walk,drink,swim,walk,2,1,6,20,7
+"以下中文的意思是什麼？
+ 游泳",love,like,swim,watch,swim,3,2,1,7,22
+"以下中文的意思是什麼？
+ 跳",jump,look,listen,sit,jump,1,8,21,24,31
+"以下中文的意思是什麼？
+ 騎",ride,draw,smile,cry,ride,1,9,14,25,27
+"以下中文的意思是什麼？
+ 跳舞",dance,speak,eat,want,dance,1,10,17,19,3
+"以下中文的意思是什麼？
+ 唱",sing,cry,run,draw,sing,1,11,27,5,14
+"以下中文的意思是什麼？
+ 寫",write,eat,draw,color,write,1,12,19,14,15
+"以下中文的意思是什麼？
+ 閱讀",drink,read,eat,write,read,2,20,13,19,12
+"以下中文的意思是什麼？
+ （乾筆）畫",jump,say,laugh,draw,draw,4,8,18,26,14
+"以下中文的意思是什麼？
+ 上色",color,sit,read,want,color,1,15,31,13,3
+"以下中文的意思是什麼？
+ （濕筆）畫",paint,watch,read,sing,paint,1,16,22,13,11
+"以下中文的意思是什麼？
+ 說",see,sit,cry,speak,speak,4,23,31,27,17
+"以下中文的意思是什麼？
+ 說",look,say,watch,write,say,2,21,18,22,12
+"以下中文的意思是什麼？
+ 吃",like,smile,eat,dance,eat,3,1,25,19,10
+"以下中文的意思是什麼？
+ 喝",sit,have,jump,drink,drink,4,31,4,8,20
+"以下中文的意思是什麼？
+ 看",laugh,walk,draw,look,look,4,26,6,14,21
+"以下中文的意思是什麼？
+ 看",swim,look,watch,cry,watch,3,7,21,22,27
+"以下中文的意思是什麼？
+ 看",want,take,see,speak,see,3,3,30,23,17
+"以下中文的意思是什麼？
+ 聽",listen,want,say,laugh,listen,1,24,3,18,26
+"以下中文的意思是什麼？
+ 微笑",paint,take,smile,read,smile,3,16,30,25,13
+"以下中文的意思是什麼？
+ 大笑",see,paint,laugh,like,laugh,3,23,16,26,1
+"以下中文的意思是什麼？
+ 哭",laugh,drink,speak,cry,cry,4,26,20,17,27
+"以下中文的意思是什麼？
+ 拿",read,hold,drink,speak,hold,2,13,28,20,17
+"以下中文的意思是什麼？
+ 放",write,cry,drink,put,put,4,12,27,20,29
+"以下中文的意思是什麼？
+ 拿",see,want,run,take,take,4,23,3,5,30
+"以下中文的意思是什麼？
+ 坐",write,walk,eat,sit,sit,4,12,6,19,31
+"以下中文的意思是什麼？
+ 站",stand,dance,smile,draw,stand,1,32,10,25,14

@@ -1,0 +1,455 @@
+{
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "20:13",
+        "aspectMode": "cover",
+        "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/01_5_carousel.png"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "title",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "baseline",
+            "contents": [
+              {
+                "type": "text",
+                "text": "kk",
+                "wrap": true,
+                "weight": "bold",
+                "size": "sm",
+                "flex": 0
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notes",
+            "wrap": true,
+            "weight": "bold",
+            "size": "md"
+          }
+        ]
+      }
+    }
+  ]
+}

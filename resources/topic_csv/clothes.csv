@@ -1,0 +1,21 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的意思是什麼？
+ 帽子",shorts,dress,hat,skirt,hat,3,3,6,0,5
+"以下中文的意思是什麼？
+ 眼鏡",shoes,pants,glasses,socks,glasses,3,8,4,1,7
+"以下中文的意思是什麼？
+ 襯衫",shorts,shirt,socks,shoes,shirt,2,3,2,7,8
+"以下中文的意思是什麼？
+ 短褲",shirt,skirt,hat,shorts,shorts,4,2,5,0,3
+"以下中文的意思是什麼？
+ 長褲",boots,socks,pants,shirt,pants,3,9,7,4,2
+"以下中文的意思是什麼？
+ 裙子",shoes,skirt,boots,pants,skirt,2,8,5,9,4
+"以下中文的意思是什麼？
+ 洋裝",socks,dress,shorts,shirt,dress,2,7,6,3,2
+"以下中文的意思是什麼？
+ 襪子",skirt,socks,shirt,dress,socks,2,5,7,2,6
+"以下中文的意思是什麼？
+ 鞋子",hat,shoes,dress,shirt,shoes,2,0,8,6,2
+"以下中文的意思是什麼？
+ 靴子",boots,skirt,hat,shirt,boots,1,9,5,0,2

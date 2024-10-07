@@ -1,0 +1,89 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的英文意思是什麼？
+ 好的",sad,sick,pink,fine,fine,4,22,24,43,0
+"以下中文的英文意思是什麼？
+ 好的",young,sad,good,favorite,good,3,8,22,1,3
+"以下中文的英文意思是什麼？
+ 壞的",bad,rainy,sick,purple,bad,1,2,28,24,42
+"以下中文的英文意思是什麼？
+ 最喜歡的",red,favorite,orange,clean,favorite,2,37,3,38,16
+"以下中文的英文意思是什麼？
+ 大的",thirsty,white,sick,big,big,4,19,34,24,4
+"以下中文的英文意思是什麼？
+ 小的",sick,cold,white,small,small,4,24,27,34,5
+"以下中文的英文意思是什麼？
+ 小的",brown,long,little,slow,little,3,36,10,6,15
+"以下中文的英文意思是什麼？
+ 老的",purple,angry,hungry,old,old,4,42,23,18,7
+"以下中文的英文意思是什麼？
+ 年輕的",sunny,white,young,clean,young,3,30,34,8,16
+"以下中文的英文意思是什麼？
+ 高的",tall,unhappy,bad,slow,tall,1,9,21,2,15
+"以下中文的英文意思是什麼？
+ 長的",red,long,yellow,hungry,long,2,37,10,39,18
+"以下中文的英文意思是什麼？
+ 短的",short,sunny,small,dirty,short,1,11,30,5,17
+"以下中文的英文意思是什麼？
+ 細的",happy,red,thin,sad,thin,3,20,37,12,22
+"以下中文的英文意思是什麼？
+ 胖的",good,short,fat,long,fat,3,1,11,13,10
+"以下中文的英文意思是什麼？
+ 快的",yellow,fast,snowy,tired,fast,2,39,14,29,25
+"以下中文的英文意思是什麼？
+ 慢的",slow,black,rainy,sad,slow,1,15,33,28,22
+"以下中文的英文意思是什麼？
+ 乾淨的",clean,long,rainy,big,clean,1,16,10,28,4
+"以下中文的英文意思是什麼？
+ 髒的",fat,cloudy,unhappy,dirty,dirty,4,13,31,21,17
+"以下中文的英文意思是什麼？
+ 餓的",yellow,unhappy,cold,hungry,hungry,4,39,21,27,18
+"以下中文的英文意思是什麼？
+ 渴的",bad,thirsty,short,pink,thirsty,2,2,19,11,43
+"以下中文的英文意思是什麼？
+ 開心的",short,happy,thirsty,cloudy,happy,2,11,20,19,31
+"以下中文的英文意思是什麼？
+ 不開心的",white,fast,long,unhappy,unhappy,4,34,14,10,21
+"以下中文的英文意思是什麼？
+ 傷心的",good,tired,sad,tall,sad,3,1,25,22,9
+"以下中文的英文意思是什麼？
+ 生氣的",angry,orange,tired,thin,angry,1,23,38,25,12
+"以下中文的英文意思是什麼？
+ 生病的",angry,tall,fast,sick,sick,4,23,9,14,24
+"以下中文的英文意思是什麼？
+ 累的",dirty,tired,rainy,red,tired,2,17,25,28,37
+"以下中文的英文意思是什麼？
+ 熱的",cold,hot,clean,good,hot,2,27,26,16,1
+"以下中文的英文意思是什麼？
+ 冷的",bad,pink,cold,sad,cold,3,2,43,27,22
+"以下中文的英文意思是什麼？
+ 下雨的",rainy,bad,white,black,rainy,1,28,2,34,33
+"以下中文的英文意思是什麼？
+ 下雪的",snowy,pink,clean,slow,snowy,1,29,43,16,15
+"以下中文的英文意思是什麼？
+ 晴朗的",angry,sunny,cold,white,sunny,2,23,30,27,34
+"以下中文的英文意思是什麼？
+ 多雲的",snowy,cold,cloudy,long,cloudy,3,29,27,31,10
+"以下中文的英文意思是什麼？
+ 起風的",sad,little,rainy,windy,windy,4,22,6,28,32
+"以下中文的英文意思是什麼？
+ 黑色的",sad,clean,black,cold,black,3,22,16,33,27
+"以下中文的英文意思是什麼？
+ 白色的",good,short,sick,white,white,4,1,11,24,34
+"以下中文的英文意思是什麼？
+ 灰色的",gray,long,green,cold,gray,1,35,10,40,27
+"以下中文的英文意思是什麼？
+ 咖啡色的",brown,cold,red,blue,brown,1,36,27,37,41
+"以下中文的英文意思是什麼？
+ 紅色的",tall,gray,red,big,red,3,9,35,37,4
+"以下中文的英文意思是什麼？
+ 橘色的",thin,old,orange,tall,orange,3,12,7,38,9
+"以下中文的英文意思是什麼？
+ 黃色的",yellow,blue,hungry,green,yellow,1,39,41,18,40
+"以下中文的英文意思是什麼？
+ 綠色的",slow,dirty,green,small,green,3,15,17,40,5
+"以下中文的英文意思是什麼？
+ 藍色的",short,blue,black,cloudy,blue,2,11,41,33,31
+"以下中文的英文意思是什麼？
+ 紫色的",sunny,purple,thin,fat,purple,2,30,42,12,13
+"以下中文的英文意思是什麼？
+ 粉紅色的",pink,sad,good,blue,pink,1,43,22,1,41

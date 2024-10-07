@@ -1,0 +1,27 @@
+{
+    "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+            {
+                "type": "button",
+                "style": "primary",
+                "action": {
+                "type": "postback",
+                "label": "已掌握",
+                "data": "wrong_words=1"
+                }
+            },
+            {
+                "type": "button",
+                "style": "primary",
+                "action": {
+                "type": "postback",
+                "label": "聽發音",
+                "data": "words=1"
+                }
+            }
+        ]
+    }
+}

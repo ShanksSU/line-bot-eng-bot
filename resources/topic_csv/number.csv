@@ -1,0 +1,59 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的英文意思是什麼？
+ 零",ninety,thirteen,zero,eight,zero,3,27,13,0,8
+"以下中文的英文意思是什麼？
+ 一",one,two,eighty,zero,one,1,1,2,26,0
+"以下中文的英文意思是什麼？
+ 二",eighty,two,fourteen,ten,two,2,26,2,14,10
+"以下中文的英文意思是什麼？
+ 三",seven,nineteen,three,eleven,three,3,7,19,3,11
+"以下中文的英文意思是什麼？
+ 四",twelve,four,thirteen,fifteen,four,2,12,4,13,15
+"以下中文的英文意思是什麼？
+ 五",fifteen,fourteen,two,five,five,4,15,14,2,5
+"以下中文的英文意思是什麼？
+ 六",seventeen,fifteen,three,six,six,4,17,15,3,6
+"以下中文的英文意思是什麼？
+ 七",eighteen,five,seven,three,seven,3,18,5,7,3
+"以下中文的英文意思是什麼？
+ 八",eight,nineteen,seventeen,twelve,eight,1,8,19,17,12
+"以下中文的英文意思是什麼？
+ 九",eight,fifty,nine,hundred,nine,3,8,23,9,28
+"以下中文的英文意思是什麼？
+ 十",twelve,fourteen,ten,four,ten,3,12,14,10,4
+"以下中文的英文意思是什麼？
+ 十一",thirteen,forty,twelve,eleven,eleven,4,13,22,12,11
+"以下中文的英文意思是什麼？
+ 十二",ninety,eight,twelve,seven,twelve,3,27,8,12,7
+"以下中文的英文意思是什麼？
+ 十三",thirteen,nineteen,zero,eighty,thirteen,1,13,19,0,26
+"以下中文的英文意思是什麼？
+ 十四",eighteen,fourteen,fifteen,eighty,fourteen,2,18,14,15,26
+"以下中文的英文意思是什麼？
+ 十五",fourteen,fifteen,seventy,ninety,fifteen,2,14,15,25,27
+"以下中文的英文意思是什麼？
+ 十六",sixteen,sixty,eighty,nine,sixteen,1,16,24,26,9
+"以下中文的英文意思是什麼？
+ 十七",four,seventeen,fourteen,sixty,seventeen,2,4,17,14,24
+"以下中文的英文意思是什麼？
+ 十八",hundred,fourteen,eighteen,eleven,eighteen,3,28,14,18,11
+"以下中文的英文意思是什麼？
+ 十九",nineteen,hundred,twenty,one,nineteen,1,19,28,20,1
+"以下中文的英文意思是什麼？
+ 二十",eleven,seventeen,six,twenty,twenty,4,11,17,6,20
+"以下中文的英文意思是什麼？
+ 三十",thirty,eight,seventeen,ten,thirty,1,21,8,17,10
+"以下中文的英文意思是什麼？
+ 四十",zero,sixty,seven,forty,forty,4,0,24,7,22
+"以下中文的英文意思是什麼？
+ 五十",nine,fifty,six,one,fifty,2,9,23,6,1
+"以下中文的英文意思是什麼？
+ 六十",ten,nineteen,sixty,thirteen,sixty,3,10,19,24,13
+"以下中文的英文意思是什麼？
+ 七十",ninety,five,seventy,hundred,seventy,3,27,5,25,28
+"以下中文的英文意思是什麼？
+ 八十",eight,fourteen,eighty,five,eighty,3,8,14,26,5
+"以下中文的英文意思是什麼？
+ 九十",seventy,ninety,twelve,thirty,ninety,2,25,27,12,21
+"以下中文的英文意思是什麼？
+ 百",hundred,twelve,seventeen,seven,hundred,1,28,12,17,7

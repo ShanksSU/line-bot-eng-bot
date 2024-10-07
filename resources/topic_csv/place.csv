@@ -1,0 +1,31 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的意思是什麼？
+ 家",home,garden,shop,zoo,home,1,0,14,5,3
+"以下中文的意思是什麼？
+ 學校",yard,living room,garage,school,school,4,13,8,7,1
+"以下中文的意思是什麼？
+ 公園",park,bathroom,garage,school,park,1,2,12,7,1
+"以下中文的意思是什麼？
+ 動物園",shop,yard,zoo,living room,zoo,3,5,13,3,8
+"以下中文的意思是什麼？
+ 商店",house,store,dining room,bathroom,store,2,6,4,9,12
+"以下中文的意思是什麼？
+ 商店",store,zoo,shop,garage,shop,3,4,3,5,7
+"以下中文的意思是什麼？
+ 房子",park,shop,garden,house,house,4,2,5,14,6
+"以下中文的意思是什麼？
+ 車庫",garden,garage,bathroom,zoo,garage,2,14,7,12,3
+"以下中文的意思是什麼？
+ 客廳",living room,dining room,bedroom,shop,living room,1,8,9,11,5
+"以下中文的意思是什麼？
+ 飯廳",bedroom,home,dining room,shop,dining room,3,11,0,9,5
+"以下中文的意思是什麼？
+ 廚房",living room,kitchen,zoo,park,kitchen,2,8,10,3,2
+"以下中文的意思是什麼？
+ 臥室",park,home,bedroom,store,bedroom,3,2,0,11,4
+"以下中文的意思是什麼？
+ 浴室、廁所",garden,park,bathroom,garage,bathroom,3,14,2,12,7
+"以下中文的意思是什麼？
+ 庭院",living room,kitchen,yard,garage,yard,3,8,10,13,7
+"以下中文的意思是什麼？
+ 花園、菜園",garden,home,store,house,garden,1,14,0,4,6

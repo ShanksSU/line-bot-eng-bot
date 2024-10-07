@@ -1,0 +1,19 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的英文意思是什麼？
+ 頭",mouth,head,eye,feet,head,2,4,0,2,8
+"以下中文的英文意思是什麼？
+ 頭髮",hand,feet,hair,eye,hair,3,6,8,1,2
+"以下中文的英文意思是什麼？
+ 眼睛",leg,head,hand,eye,eye,4,7,0,6,2
+"以下中文的英文意思是什麼？
+ 鼻子",head,nose,feet,leg,nose,2,0,3,8,7
+"以下中文的英文意思是什麼？
+ 嘴巴",hand,mouth,hair,ear,mouth,2,6,4,1,5
+"以下中文的英文意思是什麼？
+ 耳朵",ear,mouth,nose,eye,ear,1,5,4,3,2
+"以下中文的英文意思是什麼？
+ 手",nose,eye,hand,hair,hand,3,3,2,6,1
+"以下中文的英文意思是什麼？
+ 腿",leg,feet,ear,hand,leg,1,7,8,5,6
+"以下中文的英文意思是什麼？
+ 腳",ear,nose,head,feet,feet,4,5,3,0,8

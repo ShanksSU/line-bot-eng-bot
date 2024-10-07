@@ -1,0 +1,61 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的意思是什麼？
+ 早餐",breakfast,ham,salad,tea,breakfast,1,0,22,23,15
+"以下中文的意思是什麼？
+ 午餐",noodles,ham,lunch,bread,lunch,3,13,22,1,9
+"以下中文的意思是什麼？
+ 晚餐",bread,juice,dinner,cookie,dinner,3,9,19,2,3
+"以下中文的意思是什麼？
+ 餅乾",cake,cookie,grape,hotdog,cookie,2,11,3,28,7
+"以下中文的意思是什麼？
+ 冰淇淋",ice cream,water,soda,dinner,ice cream,1,4,18,17,2
+"以下中文的意思是什麼？
+ 糖果",rice,candy,noodles,juice,candy,2,12,5,13,19
+"以下中文的意思是什麼？
+ 漢堡",pizza,hamburger,tomato,rice,hamburger,2,8,6,24,12
+"以下中文的意思是什麼？
+ 熱狗",tea,hotdog,bread,egg,hotdog,2,15,7,9,21
+"以下中文的意思是什麼？
+ 比薩",salad,pear,pizza,grape,pizza,3,23,27,8,28
+"以下中文的意思是什麼？
+ 麵包",ham,egg,cookie,bread,bread,4,22,21,3,9
+"以下中文的意思是什麼？
+ 三明治",grape,cookie,sandwich,milk,sandwich,3,28,3,10,20
+"以下中文的意思是什麼？
+ 蛋糕",noodles,lunch,water,cake,cake,4,13,1,18,11
+"以下中文的意思是什麼？
+ 飯",rice,tea,noodles,sandwich,rice,1,12,15,13,10
+"以下中文的意思是什麼？
+ 麵 ",banana,noodles,hamburger,sandwich,noodles,2,25,13,6,10
+"以下中文的意思是什麼？
+ 義大利麵",water,peach,spaghetti,grape,spaghetti,3,18,29,14,28
+"以下中文的意思是什麼？
+ 茶",milk,grape,cookie,tea,tea,4,20,28,3,15
+"以下中文的意思是什麼？
+ 可樂",breakfast,sandwich,coke,cake,coke,3,0,10,16,11
+"以下中文的意思是什麼？
+ 汽水",pizza,soda,pear,grape,soda,2,8,17,27,28
+"以下中文的意思是什麼？
+ 水",spaghetti,breakfast,hamburger,water,water,4,14,0,6,18
+"以下中文的意思是什麼？
+ 果汁",cake,water,juice,sandwich,juice,3,11,18,19,10
+"以下中文的意思是什麼？
+ 牛奶",dinner,spaghetti,milk,grape,milk,3,2,14,20,28
+"以下中文的意思是什麼？
+ 蛋",egg,peach,milk,cookie,egg,1,21,29,20,3
+"以下中文的意思是什麼？
+ 火腿",dinner,spaghetti,tea,ham,ham,4,2,14,15,22
+"以下中文的意思是什麼？
+ 沙拉",pizza,ice cream,salad,water,salad,3,8,4,23,18
+"以下中文的意思是什麼？
+ 番茄",tea,spaghetti,candy,tomato,tomato,4,15,14,5,24
+"以下中文的意思是什麼？
+ 香蕉",rice,cake,banana,noodles,banana,3,12,11,25,13
+"以下中文的意思是什麼？
+ 蘋果",water,pizza,apple,cookie,apple,3,18,8,26,3
+"以下中文的意思是什麼？
+ 梨子",pear,egg,breakfast,dinner,pear,1,27,21,0,2
+"以下中文的意思是什麼？
+ 葡萄",breakfast,grape,cake,ice cream,grape,2,0,28,11,4
+"以下中文的意思是什麼？
+ 桃子",tea,tomato,milk,peach,peach,4,15,24,20,29

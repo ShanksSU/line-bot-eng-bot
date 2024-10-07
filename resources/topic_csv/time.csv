@@ -1,0 +1,29 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的意思是什麼？
+ …點鐘",night,Monday,morning,...o'clock,...o'clock,4,5,8,2,0
+"以下中文的意思是什麼？
+ 現在",now,Tuesday,Wednesday,today,now,1,1,9,10,6
+"以下中文的意思是什麼？
+ 早上",morning,afternoon,Wednesday,night,morning,1,2,3,10,5
+"以下中文的意思是什麼？
+ 下午",night,Sunday,morning,afternoon,afternoon,4,5,7,2,3
+"以下中文的意思是什麼？
+ 傍晚",morning,today,evening,Thursday,evening,3,2,6,4,11
+"以下中文的意思是什麼？
+ 晚上",Saturday,night,today,...o'clock,night,2,13,5,6,0
+"以下中文的意思是什麼？
+ 今天",Sunday,today,now,afternoon,today,2,7,6,1,3
+"以下中文的意思是什麼？
+ 星期天",today,Sunday,morning,Monday,Sunday,2,6,7,2,8
+"以下中文的意思是什麼？
+ 星期一",today,Monday,...o'clock,evening,Monday,2,6,8,0,4
+"以下中文的意思是什麼？
+ 星期二",Tuesday,today,morning,Saturday,Tuesday,1,9,6,2,13
+"以下中文的意思是什麼？
+ 星期三",Wednesday,Sunday,Tuesday,morning,Wednesday,1,10,7,9,2
+"以下中文的意思是什麼？
+ 星期四",...o'clock,Thursday,today,Tuesday,Thursday,2,0,11,6,9
+"以下中文的意思是什麼？
+ 星期五",Monday,Friday,Saturday,afternoon,Friday,2,8,12,13,3
+"以下中文的意思是什麼？
+ 星期六",today,Saturday,afternoon,Friday,Saturday,2,6,13,3,12

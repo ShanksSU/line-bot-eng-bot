@@ -1,0 +1,35 @@
+question,options1,options2,options3,options4,feedback,answer,options1_word_index,options2_word_index,options3_word_index,options4_word_index
+"以下中文的意思是什麼？
+ 熊",monkey,bird,elephant,bear,bear,4,11,3,16,0
+"以下中文的意思是什麼？
+ 狗",dog,pig,zebra,lion,dog,1,1,15,14,9
+"以下中文的意思是什麼？
+ 貓",cat,giraffe,lion,chicken,cat,1,2,12,9,7
+"以下中文的意思是什麼？
+ 鳥",monkey,rabbit,lion,bird,bird,4,11,4,9,3
+"以下中文的意思是什麼？
+ 兔",lion,turtle,rabbit,zebra,rabbit,3,9,8,4,14
+"以下中文的意思是什麼？
+ 青蛙",tiger,lion,frog,cat,frog,3,10,9,5,2
+"以下中文的意思是什麼？
+ 魚",zebra,frog,bird,fish,fish,4,14,5,3,6
+"以下中文的意思是什麼？
+ 雞",giraffe,fox,chicken,bird,chicken,3,12,13,7,3
+"以下中文的意思是什麼？
+ 烏龜",giraffe,turtle,zebra,bear,turtle,2,12,8,14,0
+"以下中文的意思是什麼？
+ 獅子",fox,lion,giraffe,rabbit,lion,2,13,9,12,4
+"以下中文的意思是什麼？
+ 虎",tiger,zebra,fish,chicken,tiger,1,10,14,6,7
+"以下中文的意思是什麼？
+ 猴子",rabbit,giraffe,monkey,bird,monkey,3,4,12,11,3
+"以下中文的意思是什麼？
+ 長頸鹿",cat,lion,tiger,giraffe,giraffe,4,2,9,10,12
+"以下中文的意思是什麼？
+ 狐狸",fox,dog,giraffe,turtle,fox,1,13,1,12,8
+"以下中文的意思是什麼？
+ 斑馬",zebra,pig,elephant,tiger,zebra,1,14,15,16,10
+"以下中文的意思是什麼？
+ 豬",pig,chicken,fish,frog,pig,1,15,7,6,5
+"以下中文的意思是什麼？
+ 大象",monkey,rabbit,elephant,bear,elephant,3,11,4,16,0
