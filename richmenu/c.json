@@ -1,0 +1,85 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "richmenu-c",
+    "chatBarText": "查看更多資訊",
+    "areas": [
+      {
+        "bounds": {
+          "x": 38,
+          "y": 46,
+          "width": 782,
+          "height": 258
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "richmenu-a",
+            "data": "richmenu=a"
+        }
+      },
+      {
+        "bounds": {
+          "x": 865,
+          "y": 50,
+          "width": 781,
+          "height": 252
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "richmenu-b",
+            "data": "richmenu=b"
+        }
+      },
+      {
+        "bounds": {
+          "x": 185,
+          "y": 474,
+          "width": 949,
+          "height": 493
+        },
+        "action": {
+          "type": "message",
+          "text": "學習狀況"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1371,
+          "y": 472,
+          "width": 943,
+          "height": 498
+        },
+        "action": {
+          "type": "message",
+          "text": "反饋"
+        }
+      },
+      {
+        "bounds": {
+          "x": 189,
+          "y": 1050,
+          "width": 945,
+          "height": 497
+        },
+        "action": {
+          "type": "message",
+          "text": "test1"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1371,
+          "y": 1048,
+          "width": 943,
+          "height": 497
+        },
+        "action": {
+          "type": "message",
+          "text": "test2"
+        }
+      }
+    ]
+  }

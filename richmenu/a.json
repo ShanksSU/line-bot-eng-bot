@@ -1,0 +1,49 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "richmenu-a",
+    "chatBarText": "menu",
+    "areas": [
+      {
+        "bounds": {
+            "x": 861,
+            "y": 50,
+            "width": 783,
+            "height": 254
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "richmenu-b",
+            "data": "richmenu=b"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1683,
+          "y": 50,
+          "width": 787,
+          "height": 252
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "richmenu-c",
+            "data": "richmenu=c"
+        }
+      },
+      {
+        "bounds": {
+          "x": 643,
+          "y": 1179,
+          "width": 1213,
+          "height": 295
+        },
+        "action": {
+          "type": "message",
+          "text": "i am button"
+        }
+      }
+    ]
+  }

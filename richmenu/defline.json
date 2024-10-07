@@ -1,0 +1,72 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "richmenu-a",
+    "chatBarText": "Menu",
+    "areas": [
+      {
+        "bounds": {
+          "x": 1250,
+          "y": 0,
+          "width": 1250,
+          "height": 200
+        },
+        "action": {
+          "type": "richmenuswitch",
+          "richMenuAliasId": "richmenu-b",
+          "data": "richmenu=b"
+        }
+      },
+      {
+            "bounds": {
+                "x": 0,
+                "y": 220,
+                "width": 1250,
+                "height": 730
+            },
+            "action": {
+                "type": "uri",
+                "uri": "https://www.gentlerdigit.com/"
+            }
+        },
+        {
+            "bounds": {
+                "x": 0,
+                "y": 951,
+                "width": 1250,
+                "height": 730
+            },
+            "action": {
+                "type": "uri",
+                "uri": "https://www.gentlerdigit.com/%E5%A4%9A%E5%B1%A4line%E5%9C%96%E6%96%87%E9%81%B8%E5%96%AE"
+            }
+        },
+      {
+            "bounds": {
+          "x": 1250,
+          "y": 220,
+                "width": 1250,
+                "height": 730
+            },
+            "action": {
+                "type": "uri",
+                "uri": "https://www.gentlerdigit.com/seo%E7%AD%96%E7%95%A5"
+            }
+        },
+      {
+            "bounds": {
+                "x": 1250,
+                "y": 951,
+                "width": 1250,
+                "height": 730
+            },
+            "action": {
+                "type": "uri",
+                "uri": "https://www.youtube.com/@gentlerdigit"
+            }
+        }
+    ]
+  }

@@ -1,0 +1,74 @@
+{
+    "size": {
+      "width": 2500,
+      "height": 1686
+    },
+    "selected": true,
+    "name": "richmenu-b",
+    "chatBarText": "查看更多資訊",
+    "areas": [
+      {
+        "bounds": {
+            "x": 36,
+            "y": 48,
+            "width": 786,
+            "height": 254
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "richmenu-a",
+            "data": "richmenu=a"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1685,
+          "y": 46,
+          "width": 783,
+          "height": 256
+        },
+        "action": {
+            "type": "richmenuswitch",
+            "richMenuAliasId": "richmenu-c",
+            "data": "richmenu=c"
+        }
+      },
+      {
+        "bounds": {
+          "x": 158,
+          "y": 374,
+          "width": 662,
+          "height": 835
+        },
+        "action": {
+          "type": "message",
+          "text": "國文"
+        }
+      },
+      {
+        "bounds": {
+          "x": 924,
+          "y": 370,
+          "width": 664,
+          "height": 845
+        },
+        "action": {
+          "type": "richmenuswitch",
+          "richMenuAliasId": "richmenu-d",
+          "data": "英文"
+        }
+      },
+      {
+        "bounds": {
+          "x": 1681,
+          "y": 370,
+          "width": 666,
+          "height": 845
+        },
+        "action": {
+          "type": "message",
+          "text": "數學"
+        }
+      }
+    ]
+  }
